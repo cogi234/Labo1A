@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "Nicolas Chourot",
+        "Phone": "(450) 430-3120",
+        "Email": "Nicolas.Chourot@clg.qc.ca"
+    },
+    {
+        "Id": 2,
+        "Name": "Saliha Yacoub",
+        "Phone": "(450) 430-3120",
+        "Email": "Saliha.Yacoub@clg.qc.ca"
+    },
+    {
+        "Id": 3,
+        "Name": "Luc Ledoux",
+        "Phone": "(450) 430-3120",
+        "Email": "Luc.Ledoux@clg.qc.ca"
+    },
+    {
+        "Id": 4,
+        "Name": "Colin Bougie",
+        "Phone": "(514) 775-8285",
+        "Email": "colinbougie@gmail.com"
+    }
+]
